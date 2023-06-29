@@ -1,0 +1,36 @@
+.socialmedia{
+    margin-top: 1rem;
+    margin-left: 5rem;
+}
+
+.f-container{
+    justify-content: space-between;
+}
+.f-left{
+    gap: 1rem;
+}
+.f-menu{
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+    font-weight: 500;
+}
+.mid{
+    margin-top: 1.5rem;
+}
+
+.f-wrapper{
+    border-top: 0.1px solid #dfdede;
+}
+
+@media (max-width:768px) {
+    .f-container{
+        justify-content: center;
+    }
+    .f-container>div{
+        align-items: center !important;
+        text-align: center;
+    }
+    .socialmedia{
+        margin-right: 4rem;
+    }
+}

@@ -1,0 +1,38 @@
+[
+    {
+      "name": "NIVASA",
+      "price": "50Lakh",
+      "detail": "Gurgaon, Haryana, india, five-bedroom apartment,living room,sophistication marked by sumptuous seating,",
+      "image": "./r1.png"
+    },
+    {
+      "name": "Ekta Khanna",
+      "price": "66Lakh",
+      "detail": "New Delhi, india, This multi-generational home , bedrooms, washrooms and even a kitchen.",
+      "image": "./r2.png"
+    },
+    {
+      "name": "Ace Associates",
+      "price": "80Lakh",
+      "detail": "Anand, Gujarat, india, The home opens that is home to a large azure water body",
+      "image": "./r3.png"
+    },
+    {
+      "name": "Altus - Luxury Living",
+      "price": "47Lakh",
+      "detail": "Chattarpur, Haryana, india, This farmhouse is practically a mini palace",
+      "image": "./r1.png"
+    },
+    {
+      "name": "Asatti Garden City",
+      "price": "66,353",
+      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+      "image": "./r2.png"
+    },
+    {
+      "name": "Citralan Puri Serang",
+      "price": "35,853",
+      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+      "image": "./r3.png"
+    }
+  ]
